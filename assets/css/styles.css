@@ -15,7 +15,7 @@ body{
 .cabecario {
     background-color: #411530;
     width: 100vmax;
-    height: max-content;
+    height: 100px;
     display: flex;
     flex-direction: row;
     align-items: center;
