@@ -67,6 +67,7 @@ main {
 
 .receita-container {
     max-width: min-content;
+    max-height: min-content;
     border: none;
     border-radius: 40px;
     background-color: #42855B;
